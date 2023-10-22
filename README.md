@@ -3,6 +3,7 @@
 The first week often blends excitement with uncertainty. This week highlighted our team's collaborative strength.
 
 We met on Monday, focusing on the problem statement and brainstorming. I shared my ideas, which were met with genuine interest.
+We came up with over 10 enhancements that could be worked on to solve the challenge statement
 
 But our standout was communication. New teams usually face initial hiccups, yet our interactions flowed effortlessly. Everyone was engaged, adding their insights.
 
