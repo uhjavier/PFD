@@ -44,3 +44,24 @@ Looking forward to more weeks of effective collaboration and bringing our vision
 
 [Evidence]
 ![image](https://github.com/uhjavier/PFD/assets/47713804/a7661644-c404-46a3-84da-33600c223941)
+
+# **Week 3 Reflection: Hitting Our Stride & Encountering Challenges**
+
+As the weeks progress, the initial momentum can either escalate into a steady rhythm or stagger under unforeseen obstacles. For us, Week 3 has been a mix of both, pushing us to adapt and persevere.
+
+[Group]
+
+Our Scrum rituals are becoming second nature. Daily stand-ups have honed our focus and helped us to quickly address any roadblocks. It's impressive to see how each team member is proactively tackling issues before they escalate.
+
+Midweek, we faced our first significant challenge—a key feature we committed to deliver was more complex than anticipated. Thankfully, the foundation we laid during the previous weeks paid off. The team's agility shone through as we collectively decided to adjust our sprint goals to maintain quality without compromising our timeline.
+
+Moreover, our retrospective was enlightening this week. It allowed us to reflect not just on what we've achieved, but also on our workflow and team dynamics. Continuous improvement is clearly becoming part of our ethos.
+
+[Personal]
+
+On a personal level, this week has been a test of resilience. I took on more than I initially thought I could handle, but I was determined to not let the team down. My ability to manage my time and break down tasks into manageable chunks has definitely improved.
+
+The challenge with the key feature also gave me a chance to step up and offer some creative solutions, which were well received. It's rewarding to see my contributions making a difference and being recognized by the team.
+
+Despite the pressures, I'm energized by the progress we're making and the culture we're building. There's a genuine sense of camaraderie that's bolstering our collective effort.
+
