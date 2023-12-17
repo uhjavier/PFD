@@ -65,3 +65,44 @@ The challenge with the key feature also gave me a chance to step up and offer so
 
 Despite the pressures, I'm energized by the progress we're making and the culture we're building. There's a genuine sense of camaraderie that's bolstering our collective effort.
 
+# **Week 4 Reflection: Sustained Progress & Diminishing Challenges**
+As we entered the fourth week, the rhythm we established in the previous weeks continued to propel us forward. This period was marked by steady progress and a noticeable reduction in the challenges we faced.
+
+[Group]
+
+Our fourth week was characterized by a deep dive into ongoing tasks and further refinement of our project's trajectory. The regular Scrum rituals, such as daily stand-ups and sprint reviews, have become ingrained in our workflow, ensuring consistent progress and accountability.
+
+The standout feature of this week was the noticeable decrease in roadblocks. The challenges that did arise were swiftly and efficiently handled, demonstrating our team's growing expertise and comfort with the project and each other.
+
+This week also saw us making significant headway in our current sprint. The tasks we undertook were executed with a higher degree of precision and collaboration, showcasing the collective growth of our team.
+
+[Personal]
+
+Personally, this week was less about overcoming hurdles and more about consolidating my learnings. I found myself more at ease with my responsibilities and more confident in my ability to contribute effectively.
+
+My focus was on refining my skills and deepening my understanding of the project's nuances, which I believe will be crucial in the upcoming stages.
+
+The smooth sailing this week was a testament to our team's hard-earned synergy and the robust processes we've established.
+
+Looking forward to building on this momentum and tackling the upcoming challenges with the same level of efficiency and teamwork!
+
+# **Week 5 Reflection: Hackathon Success & Sprint Milestone Achievement**
+The fifth week was a pivotal one for our team, marked by the excitement of a Hackathon and the satisfaction of completing our first sprint.
+
+[Group]
+
+The Hackathon was the highlight of this week. It was an intense but exhilarating experience where we put our skills to the test in a competitive environment. The event not only allowed us to showcase our project but also to learn from the innovative approaches of other teams.
+
+Our success in the Hackathon provided a substantial morale boost and served as a validation of our hard work and creativity. It also offered invaluable insights that we could integrate into our project.
+
+Furthermore, we reached a significant milestone by completing our first sprint. This accomplishment was a testament to our team's dedication and the effectiveness of our Scrum framework. The review and retrospective at the end of the sprint provided us with constructive feedback and areas for improvement, setting the stage for even greater achievements in the future.
+
+[Personal]
+
+On a personal level, the Hackathon was a transformative experience. It pushed me out of my comfort zone and inspired me to think more innovatively. The pressure of the event honed my problem-solving skills and ability to work under tight deadlines.
+
+Completing the first sprint was equally rewarding. It was a moment of reflection on my journey so far and a reinforcement of my role within the team.
+
+This week's experiences have bolstered my confidence and excitement for what lies ahead. I'm eager to apply the lessons learned and continue contributing to our project's success.
+
+[Evidence] ![image](https://github.com/uhjavier/PFD/assets/47713804/c8699db2-4c7f-4946-89b8-54c34836e329)
