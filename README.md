@@ -106,3 +106,63 @@ Completing the first sprint was equally rewarding. It was a moment of reflection
 This week's experiences have bolstered my confidence and excitement for what lies ahead. I'm eager to apply the lessons learned and continue contributing to our project's success.
 
 [Evidence] ![image](https://github.com/uhjavier/PFD/assets/47713804/c8699db2-4c7f-4946-89b8-54c34836e329)
+
+<- Break until week 12->
+
+
+# **Week 12 Reflection: Mastery and Strategic Innovation**
+
+[Group]
+
+In our twelfth week, the group dynamic has evolved from mere collaboration to strategic innovation. Our Monday meetings have transformed into strategic sessions, where we not only address ongoing tasks but also proactively anticipate future challenges. This shift in approach has led to the development of several groundbreaking strategies, significantly enhancing our project's potential.
+
+A notable achievement was the implementation of an innovative feature, which not only streamlined our workflow but also added immense value to the final product. This feature, a brainchild of our collective brainstorming, is a clear indicator of our team's growing mastery and creativity.
+
+[Personal]
+
+Personally, I've noticed a marked improvement in my strategic thinking and problem-solving skills. The challenges I face now are more complex, requiring a deeper level of analysis and creativity. I've taken a more proactive role in proposing solutions and strategies, which has been well-received by the team.
+
+My growth in these areas has been a significant factor in the team's overall progress, and I find myself increasingly confident in navigating complex scenarios.
+
+# **Week 13 Reflection: Refinement and Efficiency**
+
+[Group]
+
+The thirteenth week was about refining our processes and enhancing efficiency. We've fine-tuned our Scrum methodology, making our daily stand-ups more focused and productive. This has led to a noticeable increase in our week-on-week progress, as we're able to address issues more promptly and keep our momentum going.
+
+One of our key accomplishments was streamlining a critical process that was previously a bottleneck. This breakthrough not only improved our efficiency but also boosted the team's morale.
+
+[Personal]
+
+On a personal note, I've become more adept at identifying and resolving inefficiencies within my scope of work. My contributions have become more targeted and impactful, reflecting a deeper understanding of our project's objectives and challenges.
+
+I've also taken the initiative to mentor newer team members, sharing insights and strategies that have helped me in my journey. This has not only aided their development but also reinforced my own learning.
+
+# **Week 14 Reflection: Overcoming Complex Challenges**
+
+[Group]
+
+Week fourteen presented us with some of the most complex challenges yet. However, our team's resilience and problem-solving capabilities were more evident than ever. We encountered a significant technical hurdle, but our collective expertise and determination led to an innovative solution that not only resolved the issue but also enhanced the overall functionality of our project.
+
+Our ability to adapt and innovate under pressure is a testament to the strong foundation we've built over the past weeks.
+
+[Personal]
+
+This week was particularly challenging for me, but it was also immensely rewarding. I played a key role in navigating the technical challenge, applying my skills and knowledge to devise a solution. This experience was a significant growth opportunity, pushing me to expand my technical expertise and strategic thinking.
+
+I'm proud of how I've been able to contribute meaningfully to overcoming our biggest challenges yet, and I'm excited to continue this trajectory of growth and contribution.
+
+# **Week 15 Reflection: Sustained Excellence and Preparing for Future Growth**
+
+[Group]
+
+As we reached the fifteenth week, our team's performance has not just been sustained; it has excelled. We've maintained a high level of efficiency and innovation, consistently meeting and often exceeding our goals. This week, we started laying the groundwork for future phases of the project, ensuring that our success is not just a temporary spike but a steady climb.
+
+Our planning sessions have become more forward-thinking, focusing on long-term sustainability and scalability of our project.
+
+[Personal]
+
+This week, I focused on developing a more holistic view of the project, understanding not just my role but also how it fits into the larger picture. I've started to engage more with the strategic aspects of the project, contributing ideas that could shape its future direction.
+
+My growth in these strategic areas has been a natural progression from the hands-on skills I've honed over the past weeks. I'm excited about the prospect of playing a part in our project's long-term success and growth.
+
