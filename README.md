@@ -158,11 +158,11 @@ I'm proud of how I've been able to contribute meaningfully to overcoming our big
 
 As we reached the fifteenth week, our team's performance has not just been sustained; it has excelled. We've maintained a high level of efficiency and innovation, consistently meeting and often exceeding our goals. This week, we started laying the groundwork for future phases of the project, ensuring that our success is not just a temporary spike but a steady climb.
 
-Our planning sessions have become more forward-thinking, focusing on long-term sustainability and scalability of our project.
+Our planning sessions have become more forward-thinking, focusing on long-term sustainability and scalability of our project. It's the penultimate week till we our Presentation and we're ready for it.
 
 [Personal]
 
 This week, I focused on developing a more holistic view of the project, understanding not just my role but also how it fits into the larger picture. I've started to engage more with the strategic aspects of the project, contributing ideas that could shape its future direction.
 
-My growth in these strategic areas has been a natural progression from the hands-on skills I've honed over the past weeks. I'm excited about the prospect of playing a part in our project's long-term success and growth.
+My growth in these strategic areas has been a natural progression from the hands-on skills I've honed over the past weeks. I'm excited about the prospect of playing a part in our project's long-term success and growth. 
 
