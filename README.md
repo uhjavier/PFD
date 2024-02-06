@@ -1,3 +1,5 @@
+# **Navigate to Github Environments to get the HTML Webpage**
+
 # **Week 1 Reflection: Seamless Communication & Ideation**
 
 The first week often blends excitement with uncertainty. This week highlighted our team's collaborative strength.
