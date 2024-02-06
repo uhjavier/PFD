@@ -136,7 +136,6 @@ One of our key accomplishments was streamlining a critical process that was prev
 
 On a personal note, I've become more adept at identifying and resolving inefficiencies within my scope of work. My contributions have become more targeted and impactful, reflecting a deeper understanding of our project's objectives and challenges.
 
-I've also taken the initiative to mentor newer team members, sharing insights and strategies that have helped me in my journey. This has not only aided their development but also reinforced my own learning.
 
 # **Week 14 Reflection: Overcoming Complex Challenges**
 
