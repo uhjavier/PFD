@@ -1,4 +1,5 @@
-*You can run index.html to see the simple webpage I created.*
+***This is a simple website I created to see my reflection blog better***
+https://65c4f4e0d526d31c0e26acd5--voluble-beignet-08130b.netlify.app/
 
 # Week 1 Reflection: Seamless Communication & Ideation
 The first week often blends excitement with uncertainty. This week highlighted our team's collaborative strength.
